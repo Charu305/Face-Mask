@@ -218,7 +218,7 @@ python convert_to_onnx.py
 
 ## 👩‍💻 Author
 
-**Charu** — Deep Learning & Computer Vision
+**Charunya** — Deep Learning & Computer Vision
 🔗 [GitHub Profile](https://github.com/Charu305)
 
 ---
